@@ -20,7 +20,7 @@ ii.Eligibility check for UK citizen living in england and has diabetic condition
   b.Actions are available for each eligibility check which can be reused to automate different eligibility check.
 
 3.	Handled both Positive and Negative test scenarios.
-4.	The configurations like base URI, browser, NHSGETHELP\config\config.properties.
+4.	The configurations like base URI, browser are included in config.properties.
 5.	Adhered to best practices of Java and selenium automation.
 
 The test can be run using the command: mvn clean test
