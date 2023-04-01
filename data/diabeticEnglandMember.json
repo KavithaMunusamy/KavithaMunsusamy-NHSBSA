@@ -1,0 +1,8 @@
+{ 
+"livingCountry" :"England",
+"dob" :"12/03/1988",
+"doLiveWithPartner" : false,
+"hasClaimBenefits" :false,
+"isdiabetic" :true,
+"hasSavings" :false
+}
